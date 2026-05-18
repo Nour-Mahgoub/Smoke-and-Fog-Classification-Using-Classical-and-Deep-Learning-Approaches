@@ -1,0 +1,3 @@
+# Keras model — too large for GitHub (97 MB), not needed for Docker (uses ONNX)
+model/*.h5
+model/.gitkeep
